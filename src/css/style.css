@@ -1,0 +1,16 @@
+body {
+  background: #eee;
+}
+
+table {
+  margin: 50px auto;
+  /* border-collapse: collapse; */
+}
+
+td {
+  /* width: 110px;
+  height: 110px; */
+  margin: 2px;
+  padding: 1px 5px;
+  border: 1px solid gray;
+}
